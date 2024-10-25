@@ -54,28 +54,6 @@ This project is a **Real-Time Weather Monitoring System** that fetches weather d
 
 - Install [Node.js](https://nodejs.org/en/) on your system.
 
-### Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/Real-Time-Weather-App.git
-   ```
-
-2. **Navigate to the project folder**:
-   ```bash
-   cd Real-Time-Weather-App
-   ```
-
-3. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
-
-4. **Run the server**:
-   ```bash
-   npm install http-server -g
-   http-server -p 8080
-   ```
 
    Alternatively, you can open `index.html` directly in a browser for simple testing.
 
